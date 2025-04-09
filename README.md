@@ -61,6 +61,3 @@ Acesse o sistema em / Access the system at:
 
 ---
 
-## 📸 Architecture Overview
-
-![ASAR Architecture](ASAR.png)

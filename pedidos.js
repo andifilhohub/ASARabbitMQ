@@ -4,7 +4,7 @@ const cors = require('cors');
 
 const app = express();
 app.use(express.json());
-app.use(cors()); // <- isso permite que o frontend acesse o backend
+app.use(cors());
 
 const RABBITMQ_URL = 'amqp://localhost';
 const QUEUE_NAME = 'fila_pedidos';
